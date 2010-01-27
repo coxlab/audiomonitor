@@ -1,6 +1,7 @@
 #ifndef __AUDIOMON_AUDIOSINK_H__
 #define __AUDIOMON_AUDIOSINK_H__
 
+#include <vector>
 #include <list>
 #include <boost/thread/mutex.hpp>
 #include <boost/thread/thread.hpp>
